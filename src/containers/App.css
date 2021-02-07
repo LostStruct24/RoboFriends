@@ -7,9 +7,12 @@
   .tc h1 {
     text-transform: uppercase;
     font-family: 'Saira Stencil One', cursive;
-    font-size: 60px;
+    font-size: 45px;
     font-weight: 200;
+    margin-bottom: 1%;
+    margin-top: 2%;
     color: #54e6e1;
+    display: flex;
+    justify-content: center;
   }
 
-  
